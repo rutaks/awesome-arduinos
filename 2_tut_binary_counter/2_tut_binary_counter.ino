@@ -1,3 +1,6 @@
+/** 4 LEDs THAT COUNT IN BINARY (1 to 15)
+VIDEO PREVIEW: https://drive.google.com/file/d/1zeqkjJn_JOvnhxl9V0iVyBFycjtvSR5e/view?usp=sharing
+*/
 //CONSTANTS
 int pin2=2;
 int pin3=3;
